@@ -7,6 +7,8 @@ Pippin Doorbell is a camera-enabled doorbell Python program for Raspberry Pi. Up
 
 Download doorbell.py and edit the two global variables at the top with the IP address of your pi and the email you want to receive the alerts. Then, put the program on your raspberry pi and run the command “python3 doorbell.py”. This will constantly wait for a mouse click (we connected a usb mouse for our “doorbell”) and when it’s pressed, you will get an email with the link to the IP address of the pi which is streaming video. When done, refresh the page to expend the requests and the program will go back to waiting.
 
+https://youtu.be/6ygKkVLaAOM for proof of project working
+
 ## Contributing
 
 Organizer – Emily
